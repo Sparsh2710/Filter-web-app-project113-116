@@ -1,2 +1,0 @@
-font-family: 'Indie Flower', cursive;
-font-family: 'Nunito', sans-serif;
